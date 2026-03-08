@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/newman/game-development-presentation-notes/"}
+{"dg-publish":true,"dg-path":"newman/Game Development Presentation Notes.md","permalink":"/newman/game-development-presentation-notes/"}
 ---
 
 
